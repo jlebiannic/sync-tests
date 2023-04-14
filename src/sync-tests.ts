@@ -26,7 +26,3 @@ if (args.length < 2) {
     rl.close();
   });
 }
-
-// visitDirDeeply("src/views", (currentFileName, currentDir) => {
-//   console.log(`${currentFileName} => ${currentDir}`);
-// });
